@@ -74,6 +74,20 @@ client_socket.close()
 
 
 ## CLIENT OUTPUT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/727b68d6-1a19-4d95-9da4-1a237f840aaa" />
 
 
